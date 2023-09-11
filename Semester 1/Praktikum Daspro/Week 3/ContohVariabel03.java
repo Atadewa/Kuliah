@@ -1,6 +1,6 @@
 public class ContohVariabel03 {
     public static void main(String[] args) {
-        String hobby = "Bermain petak umpet";
+        String hobbySaya = "Bermain petak umpet";
         boolean isPandai = true;
         char jenisKelamin = 'L';
         byte umurSekarang = 20;
