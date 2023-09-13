@@ -9,6 +9,8 @@ public class ContohOperator03 {
         System.out.println("Setelah evaluasi, x = " + x);
         int y = 12;
         System.out.println(x > y || y == x && y <= x);
+        System.out.println(x);
+        System.out.println(y);
         int z = x ^ y;
         System.out.println("Hasil x ^ y adalah " + z);
         z %= 2;
