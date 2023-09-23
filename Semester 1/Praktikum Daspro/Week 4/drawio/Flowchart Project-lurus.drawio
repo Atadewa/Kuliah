@@ -1,0 +1,97 @@
+<mxfile host="Electron" modified="2023-09-23T02:03:34.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="Hcm0k8GeEqSxD9apwmhf" version="21.7.5" type="device">
+  <diagram name="Page-1" id="OgerYb17NoepTdbNw23G">
+    <mxGraphModel dx="577" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="aG2EFV4m7tmYDZ2E2Irg-1" target="aG2EFV4m7tmYDZ2E2Irg-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-1" value="start" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="385" y="-1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="aG2EFV4m7tmYDZ2E2Irg-9" target="aG2EFV4m7tmYDZ2E2Irg-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-9" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;String&amp;nbsp;isMember, jenisKendaraan, kode, gedung, exit&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;int i&lt;/span&gt;&lt;font style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;dMasuk, tarifParkirAwal,&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 12px;&quot;&gt;tarifHelm, totalSementara,&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;waktuParkir, tarifParkirPerjam, tarifParkirTotal&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;float diskon, totalDiskon, totalPembayaran, pembayaran&lt;/span&gt;&#xa;&#xa;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=40;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-910" width="330" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="aG2EFV4m7tmYDZ2E2Irg-11" target="aG2EFV4m7tmYDZ2E2Irg-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-11" value="Input&lt;br&gt;isMember, diskon, idMasuk, jenisKendaraan, tarifParkirAwal, gedung, tarifHelm" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="306.25" y="-710" width="277.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="aG2EFV4m7tmYDZ2E2Irg-15" target="aG2EFV4m7tmYDZ2E2Irg-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-15" value="kode = &quot;2939&quot;+gedung+idMasuk&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-540" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="aG2EFV4m7tmYDZ2E2Irg-17" target="aG2EFV4m7tmYDZ2E2Irg-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-17" value="totalSementara = tarifParkirAwal + tarifHelm" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-370" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="aG2EFV4m7tmYDZ2E2Irg-18" target="aG2EFV4m7tmYDZ2E2Irg-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-18" value="Output&lt;br&gt;kode, gedung, tarifParkirAwal, tarifHelm,&lt;br&gt;totalSementara" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="306.25" y="-200" width="277.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="aG2EFV4m7tmYDZ2E2Irg-19" target="aG2EFV4m7tmYDZ2E2Irg-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-19" value="Input&lt;br&gt;exit, kode, waktuParkir" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="306.25" y="-40" width="277.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="aG2EFV4m7tmYDZ2E2Irg-20" target="aG2EFV4m7tmYDZ2E2Irg-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-20" value="totalPembayaran = tarifParkirTotal + tarifHelm" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="320" y="480" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="aG2EFV4m7tmYDZ2E2Irg-21" target="aG2EFV4m7tmYDZ2E2Irg-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-21" value="tarifParkirTotal = tarifParkirAwal + tarifParkirPerjam" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="320" y="310" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="aG2EFV4m7tmYDZ2E2Irg-22" target="aG2EFV4m7tmYDZ2E2Irg-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-22" value="tarifParkirPerjam = (waktuParkir-1)*1000" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="320" y="140" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="aG2EFV4m7tmYDZ2E2Irg-23" target="aG2EFV4m7tmYDZ2E2Irg-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-23" value="totalDiskon = totalPembayaran * diskon" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="320" y="650" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="aG2EFV4m7tmYDZ2E2Irg-24" target="aG2EFV4m7tmYDZ2E2Irg-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-24" value="totalPembayaran -= totalDiskon" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="320" y="830" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="aG2EFV4m7tmYDZ2E2Irg-25" target="aG2EFV4m7tmYDZ2E2Irg-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-25" value="Output&lt;br&gt;kode, gedung, tarifParkirAwal,&lt;br style=&quot;font-size: 12px;&quot;&gt;tarifParkirPerjam, tarifHelm, totalPembayaran" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="306.25" y="1030" width="277.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aG2EFV4m7tmYDZ2E2Irg-26" target="aG2EFV4m7tmYDZ2E2Irg-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-26" value="Input&lt;br&gt;pembayaran" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="306.25" y="1200" width="277.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aG2EFV4m7tmYDZ2E2Irg-40" value="end" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="385" y="1370" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
