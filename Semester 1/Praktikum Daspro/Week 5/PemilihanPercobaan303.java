@@ -15,7 +15,7 @@ public class PemilihanPercobaan303 {
             case '+':
                 hasil = angka1 + angka2;
                 System.out.println(angka1 + " + " + angka2 + " = " + hasil);
-                break;
+
             case '-':
                 hasil = angka1 - angka2;
                 System.out.println(angka1 + " - " + angka2 + " = " + hasil);
@@ -27,6 +27,9 @@ public class PemilihanPercobaan303 {
             case '/':
                 hasil = angka1 / angka2;
                 System.out.println(angka1 + " / " + angka2 + " = " + hasil);
+                break;
+            default :
+                System.out.println("Input Anda salah");
                 break;
         }
 
