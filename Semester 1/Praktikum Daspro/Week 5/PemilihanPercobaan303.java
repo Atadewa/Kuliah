@@ -8,7 +8,7 @@ public class PemilihanPercobaan303 {
         angka1 = input03.nextDouble();
         System.out.print("Masukkan angka kedua: ");
         angka2 = input03.nextDouble();
-        System.out.print("Masukkan operator (+ _=- * /): ");
+        System.out.print("Masukkan operator (+ - * /): ");
         operator = input03.next().charAt(0);
         
         switch (operator) {
@@ -32,7 +32,6 @@ public class PemilihanPercobaan303 {
                 System.out.println("Input Anda salah");
                 break;
         }
-
 
     }
 }
