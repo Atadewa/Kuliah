@@ -5,13 +5,9 @@ public class PemilihanPercobaan103 {
         System.out.print("Masukkan angka: ");
         int angka = input03.nextInt();
 
-        if (angka % 2 == 0) {
-            System.out.println("Angka "+angka+" bilangan genap");
-        } else {
-            System.out.println("Angka "+angka+" bilangan ganjil");
-        }
-
-
+        String hasil = (angka % 2 == 00) ? " bilangan genap" : " bilangan ganjil";
+        
+        System.out.println("Angka "+angka+hasil);
 
     } 
 }
