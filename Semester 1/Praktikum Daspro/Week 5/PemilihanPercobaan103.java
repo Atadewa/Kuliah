@@ -5,9 +5,9 @@ public class PemilihanPercobaan103 {
         System.out.print("Masukkan angka: ");
         int angka = input03.nextInt();
 
-        String hasil = (angka % 2 == 00) ? " bilangan genap" : " bilangan ganjil";
+        String hasil = (angka % 2 == 00) ? "bilangan genap" : "bilangan ganjil";
         
-        System.out.println("Angka "+angka+hasil);
+        System.out.println("Angka "+angka+" "+hasil);
 
     } 
 }
