@@ -24,17 +24,21 @@ public class BioskopWithScanner03 {
                     baris = sc.nextInt();
                     System.out.print("Masukkan kolom : ");
                     kolom = sc.nextInt();
-        
-                    penonton[baris-1][kolom-1] = nama;
                     
-                    System.out.print("Input penonton lainnya? (y/n) : ");
-                    next = sc.next();
-                    
-                    if (next.equalsIgnoreCase("n")) {
-                        System.out.println("");
-                        break;
+                    if (baris > penonton.length || kolom > penonton[baris-1].length) {
+                        System.out.println("Kursi tidak tersedia!");
+                        continue;
+                    } else {
+                        penonton[baris-1][kolom-1] = nama;
+                        
+                        System.out.print("Input penonton lainnya? (y/n) : ");
+                        next = sc.next();
+                        
+                        if (next.equalsIgnoreCase("n")) {
+                            System.out.println("");
+                            break;
+                        } 
                     }
-                    
                 }
             }
 
