@@ -19,7 +19,8 @@ public class BioskopWithScanner03 {
             if (menu==1) {
                 while (true) {
                     System.out.print("\nMasukkan nama  : ");
-                    nama = sc.next();
+                    sc.nextLine();
+                    nama = sc.nextLine();
                     System.out.print("Masukkan baris : ");
                     baris = sc.nextInt();
                     System.out.print("Masukkan kolom : ");
