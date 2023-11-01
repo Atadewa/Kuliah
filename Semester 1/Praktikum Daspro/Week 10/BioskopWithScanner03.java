@@ -5,6 +5,12 @@ public class BioskopWithScanner03 {
         int menu, baris, kolom;
         String nama, next;
         String[][] penonton = new String[4][2];
+
+        for (int i = 0; i < penonton.length; i++) {
+            for (int j = 0; j < penonton[i].length; j++) {
+                penonton[i][j] = "***";
+            }
+        }
         
         while (true) {
             
