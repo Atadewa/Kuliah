@@ -29,7 +29,7 @@ public class NestedLoop_2341720174 {
         }
 
         for (int i = 0; i < rerata.length; i++) {
-            System.out.println("Rata-rata kota ke-" + (i+1) + " : " + rerata[i]);
+            System.out.printf("Rata-rata kota ke-%d : %.2f\n", (i+1), rerata[i]);
         }
 
     }
