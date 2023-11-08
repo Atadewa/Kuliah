@@ -8,8 +8,8 @@ public class Triangle {
         
         int i = 1;
         while (i <= N) {
-            int j = 1;
-            while (j <= i) {
+            int j = 0;
+            while (j < i) {
                 System.out.print("*");
                 j++;
             }
