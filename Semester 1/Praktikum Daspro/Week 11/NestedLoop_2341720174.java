@@ -18,14 +18,14 @@ public class NestedLoop_2341720174 {
             rerata[i] /= 7;
         }
         
-        int i = 1;
+        int k = 1;
         for (double[] kota : temps) {
             System.out.print("Kota ke-"+i+" : ");
             for (double hari : kota) {
                 System.out.print(hari + " ");
             }
             System.out.println();
-            i++;
+            k++;
         }
 
         for (int i = 0; i < rerata.length; i++) {
