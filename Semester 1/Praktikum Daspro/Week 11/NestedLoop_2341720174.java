@@ -20,7 +20,7 @@ public class NestedLoop_2341720174 {
         
         int k = 1;
         for (double[] kota : temps) {
-            System.out.print("Kota ke-"+i+" : ");
+            System.out.print("Kota ke-"+k+" : ");
             for (double hari : kota) {
                 System.out.print(hari + " ");
             }
