@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Percobaan3 {
 
     static double hitungLaba(double saldo, int tahun) {
