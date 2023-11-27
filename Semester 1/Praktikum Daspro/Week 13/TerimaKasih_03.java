@@ -7,6 +7,7 @@ public class TerimaKasih_03 {
     public static void UcapanTambahan (String ucapan) {
         System.out.println(ucapan);
     }
+    
     public static void main(String[] args) {
         UcapanTerimaKasih();
         String ucapan = "Terimakasih Pak.. Bu.. Semoga Sehat Selalu";
