@@ -1,6 +1,6 @@
 public class Percobaan1 {
     
-    static int faktorRekursif(int n) {
+    static int faktorialRekursif(int n) {
         if (n == 0) {
             return (1);
         } else {
