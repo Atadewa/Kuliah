@@ -4,7 +4,7 @@ public class Percobaan1 {
         if (n == 0) {
             return (1);
         } else {
-            return (n * faktorRekursif(n - 1));
+            return (n * faktorialRekursif(n - 1));
         }
     }
 
@@ -17,7 +17,7 @@ public class Percobaan1 {
     }
 
     public static void main(String[] args) {
-        System.out.println(faktorRekursif(5));
+        System.out.println(faktorialRekursif(5));
         System.out.println(faktorialIteratif(5));
     }
     
