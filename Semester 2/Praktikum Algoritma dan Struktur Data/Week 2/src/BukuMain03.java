@@ -15,5 +15,7 @@ public class BukuMain03 {
         Buku03 bk2 = new Buku03("Self Reward", "Maheera Ayehsa", 160, 29, 59000);
         bk2.terjual(11);
         bk2.tampilInformasi();
+
+        Buku03 bukuAditya = new Buku03 ("Laskar Pelangi", "Andrea Hirata", 529, 40, 85000);
     }
 }
