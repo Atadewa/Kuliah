@@ -16,6 +16,7 @@ public class BukuMain03 {
         bk2.terjual(11);
         bk2.tampilInformasi();
 
-        Buku03 bukuAditya = new Buku03 ("Laskar Pelangi", "Andrea Hirata", 529, 40, 85000);
+        Buku03 bukuAditya = new Buku03 ("Laskar Pelangi", "Andrea Hirata", 529, 32, 85000);
+        bukuAditya.tampilInformasi();
     }
 }
